@@ -1,0 +1,13 @@
+D:\212\Крошмаль\Крошмаль\Kroshmal0020\obj\Debug\netcoreapp3.1\Kroshmal0020.csprojAssemblyReference.cache
+D:\212\Крошмаль\Крошмаль\Kroshmal0020\obj\Debug\netcoreapp3.1\Kroshmal0020.AssemblyInfoInputs.cache
+D:\212\Крошмаль\Крошмаль\Kroshmal0020\obj\Debug\netcoreapp3.1\Kroshmal0020.AssemblyInfo.cs
+D:\212\Крошмаль\Крошмаль\Kroshmal0020\obj\Debug\netcoreapp3.1\Kroshmal0020.csproj.CoreCompileInputs.cache
+D:\212\Крошмаль\Крошмаль\Kroshmal0020\bin\Debug\netcoreapp3.1\Kroshmal0020.exe
+D:\212\Крошмаль\Крошмаль\Kroshmal0020\bin\Debug\netcoreapp3.1\Kroshmal0020.deps.json
+D:\212\Крошмаль\Крошмаль\Kroshmal0020\bin\Debug\netcoreapp3.1\Kroshmal0020.runtimeconfig.json
+D:\212\Крошмаль\Крошмаль\Kroshmal0020\bin\Debug\netcoreapp3.1\Kroshmal0020.runtimeconfig.dev.json
+D:\212\Крошмаль\Крошмаль\Kroshmal0020\bin\Debug\netcoreapp3.1\Kroshmal0020.dll
+D:\212\Крошмаль\Крошмаль\Kroshmal0020\bin\Debug\netcoreapp3.1\Kroshmal0020.pdb
+D:\212\Крошмаль\Крошмаль\Kroshmal0020\obj\Debug\netcoreapp3.1\Kroshmal0020.dll
+D:\212\Крошмаль\Крошмаль\Kroshmal0020\obj\Debug\netcoreapp3.1\Kroshmal0020.pdb
+D:\212\Крошмаль\Крошмаль\Kroshmal0020\obj\Debug\netcoreapp3.1\Kroshmal0020.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kroshmal0020/1.0.0": {
+        "runtime": {
+          "Kroshmal0020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kroshmal0020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
